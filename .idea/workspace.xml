@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d920447-8d2b-4e1f-9731-71cf734021c0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+    </component>
+    <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+      <item value="JavaScript File" />
+      </list>
+    </option>
+    </component>
+    <component name="MarkdownSettingsMigration">
+    <state detectedFileUri="file://C:/Users/TerraSuites/OneDrive/Masaüstü/Yeni klasör/google-cloud-aiplugin-1.13.0-243.zip" lastVerified="true" />
+    </component>
+    <component name="ProjectColorInfo">{
+    &quot;associatedIndex&quot;: 6
+  }</component>
+    <component name="ProjectId" id="2wCMkW16XllwldUEiwUO7k8ECih" />
+    <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    </component>
+    <component name="PropertiesComponent"><![CDATA[{
+    "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.scratch.jsx.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "javascript.nodejs.core.library.configured.version": "22.10.0",
+    "javascript.nodejs.core.library.typings.version": "22.10.10",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/TerraSuites/AppData/Roaming/JetBrains/WebStorm2025.1/node/versions/22.10.0/node",
+    "nodejs_package_manager_path": "C:\\Users\\TerraSuites\\OneDrive\\Masaüstü\\Yeni klasör\\google-cloud-aiplugin-1.13.0-243.zip",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+    },
+    "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
+    }
+  }]]></component>
+    <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TerraSuites\OneDrive\Masaüstü\Yeni klasör" />
+    </key>
+    </component>
+    <component name="RunManager">
+    <configuration name="scratch.jsx" type="NeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch.jsx" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+      <item itemvalue="Node.js.scratch.jsx" />
+      </list>
+    </recent_temporary>
+    </component>
+    <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+      <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+      </set>
+    </attachedChunks>
+    </component>
+    <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+    <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d920447-8d2b-4e1f-9731-71cf734021c0" name="Changes" comment="" />
+      <created>1745541248890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745541248890</updated>
+      <workItem from="1745541250145" duration="2543000" />
+      <workItem from="1745890520140" duration="533000" />
+      <workItem from="1745891107439" duration="6000" />
+    </task>
+    <servers />
+    </component>
+    <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    </component>
+    <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+      <entry key="MAIN">
+        <value>
+        <State />
+        </value>
+      </entry>
+      </map>
+    </option>
+    </component>
+  </project>
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</}component>
+  <component name="ProjectId" id="2wCMkW16XllwldUEiwUO7k8ECih" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.scratch.jsx.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "javascript.nodejs.core.library.configured.version": "22.10.0",
+    "javascript.nodejs.core.library.typings.version": "22.10.10",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/TerraSuites/AppData/Roaming/JetBrains/WebStorm2025.1/node/versions/22.10.0/node",
+    "nodejs_package_manager_path": "C:\\Users\\TerraSuites\\OneDrive\\Masaüstü\\Yeni klasör\\google-cloud-aiplugin-1.13.0-243.zip",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="scratch.jsx" type="NeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_NFIG_DIR$/scratches/scratch.jsx" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.scratch.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d920447-8d2b-4e1f-9731-71cf734021c0" name="Changes" comment="" />
+      <created>1745541248890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745541248890</updated>
+      <workItem from="1745541250145" duration="2543000" />
+      <workItem from="1745890520140" duration="533000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
